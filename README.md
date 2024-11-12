@@ -18,7 +18,7 @@ Outro ponto essencial a ser considerado é que o Custo de Aquisição de Cliente
 
 ---
 
-Link para o projeto completo
+[Link para o projeto completo](https://github.com/raffaelhfarias/churnPrediction/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 
 ## Links para me encontrarem:
 - [Medium](#)
